@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MarkdownSnippets\MarkdownSnippets.csproj" />
+    <PackageReference Include="System.CommandLine.Experimental" Version="0.1.0-alpha-63824-01" />
   </ItemGroup>
 
 </Project>

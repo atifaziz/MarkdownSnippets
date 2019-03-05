@@ -200,6 +200,13 @@ For running in the current directory:
 mdsnippets
 ```
 
+Get help:
+
+```ps
+mdsnippets -h
+```
+
+
 For running against a target directory:
 
 ```ps

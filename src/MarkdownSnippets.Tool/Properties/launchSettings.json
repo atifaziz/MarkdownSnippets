@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarkdownSnippets.Tool": {
+      "commandName": "Project",
+      "commandLineArgs": "--target-directory C:\\Code\\MarkdownSnippets"
+    }
+  }
+}
